@@ -138,27 +138,33 @@ body
     transform: translate3d(-50%,-50%,100px) rotate(30deg);
 }
 
-.container .box:nth-child(1) .circle
+.container .box:nth-child(1) .circle,
+.container .box:nth-child(1) .buy
 {
-    background: #adf737;
+    background: #73a720;
 }
-.container .box:nth-child(2) .circle
+.container .box:nth-child(2) .circle,
+.container .box:nth-child(2) .buy
 {
-    background: #adf737;
+    background: #73a720;
 }
-.container .box:nth-child(3) .circle
+.container .box:nth-child(3) .circle,
+.container .box:nth-child(3) .buy
 {
     background: #3784f7;
 }
-.container .box:nth-child(4) .circle
+.container .box:nth-child(4) .circle,
+.container .box:nth-child(4) .buy
 {
     background: #37e1f7;
 }
-.container .box:nth-child(5) .circle
+.container .box:nth-child(5) .circle,
+.container .box:nth-child(5) .buy
 {
-    background: #adf737;
+    background: #73a720;
 }
-.container .box:nth-child(6) .circle
+.container .box:nth-child(6) .circle,
+.container .box:nth-child(6) .buy
 {
     background: #f73737;
 }
